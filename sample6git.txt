@@ -1,1 +1,1 @@
-sample 6 created from github
+sample 6 created from github and now modified in local
